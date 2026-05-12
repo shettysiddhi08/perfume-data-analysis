@@ -10,9 +10,9 @@
 * [cite_start]**Data Engineering:** Performed complex data cleaning, normalization, and multi-step transformations using **Power Query**[cite: 24, 63].
 
 ## 🛠️ Tech Stack
-* [cite_start]**Power BI**: Dashboard design and DAX measures[cite: 17, 53].
-* **Power Query**: ETL (Extract, Transform, Load) processes[cite: 24, 63].
-* [cite_start]**Microsoft Excel**: Data source management and initial data inspection[cite: 18, 54].
+**Power BI**: Dashboard design and DAX measures.
+**Power Query**: ETL (Extract, Transform, Load) processes.
+**Microsoft Excel**: Data source management and initial data inspection.
 
 ## 📂 Files in this Repo
 * `perfume sales performance.pbix`: The source Power BI project file.
